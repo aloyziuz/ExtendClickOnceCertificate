@@ -1,5 +1,7 @@
 # ExtendClickOnceCertificate C# 
 
+# This repo is forked from https://github.com/OceanAirdrop/ExtendClickOnceCertificate. I only added the compiled RenewCert binary release
+
 This project allows you to "renew" your existing ClickOnce certificate and give it a longer expiry date.  It extends Click Once Certs By **105 years!!!**
 
 This code was originally provided by Microsoft and then modified by Cliff Stanford who updated it to add 5 years to the expiry date.
